@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">JetpackComposeLoginApp</string>
+    <string name="sign_in">Войти</string>
+    <string name="hitter_terms_1">Как хиттерить по\u0020</string>
+    <string name="hitter_terms_2">правилам</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="input_otp">Введи код из SMS</string>
+    <string name="send_otp_query">Отправили на номер %s</string>
 </resources>
